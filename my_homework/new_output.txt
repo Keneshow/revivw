@@ -1,0 +1,6 @@
+Привет, мир!
+Как дела?
+Python — это круто!
+Hello world
+How are you?
+Python is cool!
